@@ -1,9 +1,9 @@
 # Команды git
 
-## git init
+## git log
 
-## git add
+## git checkout
 
-## git commit
+## git clone
 
-## git status
+## git pull
