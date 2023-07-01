@@ -1,9 +1,9 @@
-# Команды git
+# Команды git утопил
 
-## git log
+## git log  мимо
 
 ## git checkout
 
-## git clone
+## git clone попал
 
-## git pull
+## git pull ранил
